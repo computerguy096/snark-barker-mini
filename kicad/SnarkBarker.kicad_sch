@@ -64846,6 +64846,502 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Graphic:SYM_LASER_Large"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board no)
+			(property "Reference" "#SYM"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "SYM_LASER_Large"
+				(at 0 -6.731 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" ""
+				(at -0.254 -4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0.762 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Laser radiation warning symbol, large"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Enable" "0"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "symbol logo laser warning"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SYM_LASER_Large_0_1"
+				(polyline
+					(pts
+						(xy -5.08 -5.08) (xy 5.08 -5.08) (xy 0 3.81) (xy -5.08 -5.08)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 -2.413) (xy 3.556 -2.413)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -3.683) (xy 1.27 -1.143)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.143 -2.032) (xy 1.143 -2.794)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.143 -2.921) (xy 1.143 -1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 -1.27) (xy 0.508 -3.556)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -4.191) (xy 0 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 -1.27) (xy -0.508 -3.556)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.397 -3.683) (xy -1.397 -1.143)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Graphic:SYM_Magnet_Large"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board no)
+			(property "Reference" "#SYM"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "SYM_Magnet_Large"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0.762 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Magnetic field warning symbol, large"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Enable" "0"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "symbol logo magnetic field warning"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SYM_Magnet_Large_0_1"
+				(polyline
+					(pts
+						(xy -5.08 -5.08) (xy 5.08 -5.08) (xy 0 3.81) (xy -5.08 -5.08)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.8288 -0.5334)
+					(end -0.7112 -1.8034)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.8288 -1.27)
+					(end -0.7112 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start 1.27 -2.54)
+					(mid 0 -3.8045)
+					(end -1.27 -2.54)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0.7112 -0.5334)
+					(end 1.8288 -1.8034)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 0.7112 -1.27)
+					(end 1.8288 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Graphic:SYM_Radio_Waves_Large"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board no)
+			(property "Reference" "#SYM"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "SYM_Radio_Waves_Large"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0.762 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Radio waves warning symbol, large"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Enable" "0"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "symbol logo radio waves warning radiation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SYM_Radio_Waves_Large_0_1"
+				(polyline
+					(pts
+						(xy -5.08 -5.08) (xy 5.08 -5.08) (xy 0 3.81) (xy -5.08 -5.08)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -4.572) (xy 1.016 -4.572) (xy 0 -1.27) (xy -1.016 -4.572)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start -1.27 -2.032)
+					(mid -1.4811 -1.27)
+					(end -1.27 -0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0.762 -0.762)
+					(mid 0.9158 -1.27)
+					(end 0.762 -1.778)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.778 -0.254)
+					(mid 2.0478 -1.27)
+					(end 1.778 -2.286)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.778 -2.286)
+					(mid -2.0478 -1.27)
+					(end -1.778 -0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.762 -1.778)
+					(mid -0.9158 -1.27)
+					(end -0.762 -0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.27)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start 1.27 -0.508)
+					(mid 1.4811 -1.27)
+					(end 1.27 -2.032)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Jumper_NC_Small_1"
 			(pin_numbers
 				(hide yes)
@@ -85616,6 +86112,12 @@
 		(uuid "018c7e54-b2ad-4124-aa78-c22d2619328a")
 	)
 	(junction
+		(at 167.64 325.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "042b62de-5843-40c4-a645-5f5dcbfaa02b")
+	)
+	(junction
 		(at 505.46 199.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -85922,7 +86424,7 @@
 		(uuid "58451b0c-8225-4317-babc-39687a6402ea")
 	)
 	(junction
-		(at 137.16 247.65)
+		(at 158.75 317.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5abc1949-757f-4ebe-af17-2afb6c043d29")
@@ -85950,6 +86452,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e75d051-be6a-4723-b258-0a21cc6b98fc")
+	)
+	(junction
+		(at 167.64 309.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f51c5e3-f3e1-411b-bb05-c62e6f5e8e2f")
 	)
 	(junction
 		(at 259.08 334.01)
@@ -89053,6 +89561,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 309.88) (xy 167.64 309.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "409d889d-5e95-46ac-99b6-a8d3443f6953")
+	)
+	(wire
+		(pts
 			(xy 496.57 344.17) (xy 510.54 344.17)
 		)
 		(stroke
@@ -90780,6 +91298,16 @@
 			(type default)
 		)
 		(uuid "78b62a1b-7838-498c-8fa0-f8fc2f010308")
+	)
+	(wire
+		(pts
+			(xy 158.75 312.42) (xy 158.75 309.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78b6aebb-d0f7-4119-9859-dd60240d346d")
 	)
 	(wire
 		(pts
@@ -92773,6 +93301,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 322.58) (xy 158.75 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf1b68b6-7fe2-4a71-a5bb-702f3ac1ef83")
+	)
+	(wire
+		(pts
 			(xy 266.7 151.13) (xy 251.46 151.13)
 		)
 		(stroke
@@ -94560,6 +95098,16 @@
 			(type default)
 		)
 		(uuid "f6844d09-cf22-446b-85f4-2babf39e2590")
+	)
+	(wire
+		(pts
+			(xy 158.75 325.12) (xy 167.64 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f72eee2e-9ca1-4ff1-a466-5b33526febe8")
 	)
 	(wire
 		(pts
@@ -104799,7 +105347,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 137.16 250.19 180)
+		(at 158.75 320.04 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -104807,7 +105355,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005b5a9416")
 		(property "Reference" "C33"
-			(at 139.192 250.19 0)
+			(at 160.782 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104816,7 +105364,7 @@
 			)
 		)
 		(property "Value" "0.1u"
-			(at 139.192 252.222 0)
+			(at 160.782 322.072 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104825,7 +105373,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 137.16 250.19 0)
+			(at 158.75 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104834,7 +105382,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 250.19 0)
+			(at 158.75 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104843,7 +105391,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 137.16 250.19 0)
+			(at 158.75 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104852,7 +105400,7 @@
 			)
 		)
 		(property "Mouser" "581-SA105E104M"
-			(at 137.16 250.19 0)
+			(at 158.75 320.04 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -104877,7 +105425,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 137.16 245.11 0)
+		(at 158.75 314.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -104885,7 +105433,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005b5a9c07")
 		(property "Reference" "C34"
-			(at 139.446 244.856 0)
+			(at 161.036 314.706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104894,7 +105442,7 @@
 			)
 		)
 		(property "Value" "0.1u"
-			(at 139.446 246.888 0)
+			(at 161.036 316.738 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104903,7 +105451,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 137.16 245.11 0)
+			(at 158.75 314.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104912,7 +105460,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 245.11 0)
+			(at 158.75 314.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104921,7 +105469,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 137.16 245.11 0)
+			(at 158.75 314.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104930,7 +105478,7 @@
 			)
 		)
 		(property "Mouser" "581-SA105E104M"
-			(at 137.16 245.11 0)
+			(at 158.75 314.96 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -109537,71 +110085,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5VA")
-		(at 137.16 242.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005b6ceb51")
-		(property "Reference" "#PWR0109"
-			(at 137.16 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5VA"
-			(at 137.16 239.014 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5VA\""
-			(at 137.16 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3d1b6201-b877-4c2f-8ffd-a88f9b1b350e")
-		)
-		(instances
-			(project ""
-				(path "/766bcda1-d983-41be-ba4d-e8b3b156d0a2"
-					(reference "#PWR0109")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:-12V")
 		(at 77.47 41.91 90)
 		(unit 1)
@@ -112145,7 +112628,7 @@
 	)
 	(symbol
 		(lib_id "power:-5V")
-		(at 137.16 252.73 180)
+		(at 167.64 325.12 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -112153,7 +112636,7 @@
 		(dnp no)
 		(uuid "10097aa7-ebd6-4c47-964c-2e01015d6b70")
 		(property "Reference" "#PWR033"
-			(at 137.16 255.27 0)
+			(at 167.64 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -112162,7 +112645,7 @@
 			)
 		)
 		(property "Value" "-5V"
-			(at 137.414 256.54 0)
+			(at 167.894 328.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -112170,7 +112653,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 252.73 0)
+			(at 167.64 325.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -112179,7 +112662,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 252.73 0)
+			(at 167.64 325.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -112188,7 +112671,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-5V\""
-			(at 137.16 252.73 0)
+			(at 167.64 325.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -112878,7 +113361,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LM324")
-		(at 196.85 328.93 0)
+		(at 170.18 317.5 0)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -112886,7 +113369,7 @@
 		(dnp no)
 		(uuid "1d1bc792-8e6c-46ad-8b62-9c0951122f65")
 		(property "Reference" "U5"
-			(at 195.58 327.6599 0)
+			(at 168.91 316.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -112895,7 +113378,7 @@
 			)
 		)
 		(property "Value" "LM324"
-			(at 195.58 330.1999 0)
+			(at 168.91 318.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -112904,7 +113387,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 195.58 326.39 0)
+			(at 168.91 314.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -112913,7 +113396,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf"
-			(at 198.12 323.85 0)
+			(at 171.45 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -112922,7 +113405,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"
-			(at 196.85 328.93 0)
+			(at 170.18 317.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -112931,7 +113414,7 @@
 			)
 		)
 		(property "Mouser" "512-LM324AN"
-			(at 196.85 331.47 0)
+			(at 170.18 320.04 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -113240,71 +113723,6 @@
 			(project ""
 				(path "/766bcda1-d983-41be-ba4d-e8b3b156d0a2"
 					(reference "U4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 104.14 294.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "24e35c6a-b315-4935-8c76-847a2df2d50c")
-		(property "Reference" "#PWR076"
-			(at 104.14 298.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 104.14 290.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 104.14 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 104.14 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 104.14 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "66c18170-744a-4e58-b77e-a5528e78da10")
-		)
-		(instances
-			(project "SnarkBarker"
-				(path "/766bcda1-d983-41be-ba4d-e8b3b156d0a2"
-					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -113628,7 +114046,7 @@
 				)
 			)
 		)
-		(property "Value" "SPKOUT"
+		(property "Value" "MIC"
 			(at 20.955 290.83 0)
 			(effects
 				(font
@@ -113636,7 +114054,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ1-3535NG_Horizontal"
+		(property "Footprint" "SB:TRS jack"
 			(at 22.86 285.75 0)
 			(effects
 				(font
@@ -115402,7 +115820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ1-3535NG_Horizontal"
+		(property "Footprint" "SB:TRS jack"
 			(at 571.5 335.28 0)
 			(effects
 				(font
@@ -116891,6 +117309,70 @@
 			(project "SnarkBarker"
 				(path "/766bcda1-d983-41be-ba4d-e8b3b156d0a2"
 					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_LASER_Large")
+		(at 41.91 400.05 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "654df7c9-2093-48bb-bf92-44cac09c687b")
+		(property "Reference" "#SYM3"
+			(at 41.91 394.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_LASER_Large"
+			(at 41.91 406.781 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SB:pinch"
+			(at 41.656 404.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 42.672 405.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Laser radiation warning symbol, large"
+			(at 41.91 400.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/766bcda1-d983-41be-ba4d-e8b3b156d0a2"
+					(reference "#SYM3")
 					(unit 1)
 				)
 			)
@@ -119909,71 +120391,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 194.31 336.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9ac65dfa-ae78-4e3b-8900-684773b4eada")
-		(property "Reference" "#PWR032"
-			(at 194.31 342.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 194.31 340.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 194.31 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 194.31 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 194.31 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8bad526c-1b20-4b04-b6e7-d1a29d215cfe")
-		)
-		(instances
-			(project "SnarkBarker"
-				(path "/766bcda1-d983-41be-ba4d-e8b3b156d0a2"
-					(reference "#PWR032")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "74xx:74LS32")
 		(at 289.56 370.84 0)
 		(unit 5)
@@ -121281,6 +121698,70 @@
 				(path "/766bcda1-d983-41be-ba4d-e8b3b156d0a2"
 					(reference "U23")
 					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Radio_Waves_Large")
+		(at 19.05 400.05 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4612a06-91f1-44bd-aeb3-80f4ed5fa93b")
+		(property "Reference" "#SYM1"
+			(at 19.05 394.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Radio_Waves_Large"
+			(at 19.05 406.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SB:Logo"
+			(at 19.05 405.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 19.812 405.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Radio waves warning symbol, large"
+			(at 19.05 400.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/766bcda1-d983-41be-ba4d-e8b3b156d0a2"
+					(reference "#SYM1")
+					(unit 1)
 				)
 			)
 		)
@@ -123380,6 +123861,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5VA")
+		(at 104.14 294.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d3e74cbf-68bb-40db-8350-c28bc9ad83f9")
+		(property "Reference" "#PWR041"
+			(at 104.14 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5VA"
+			(at 104.14 291.084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 104.14 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5VA\""
+			(at 104.14 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f69dca60-412f-437b-ac9a-92824e0dd145")
+		)
+		(instances
+			(project "SnarkBarker"
+				(path "/766bcda1-d983-41be-ba4d-e8b3b156d0a2"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 284.48 215.9 270)
 		(unit 1)
@@ -123610,6 +124156,70 @@
 			(project "SnarkBarker"
 				(path "/766bcda1-d983-41be-ba4d-e8b3b156d0a2"
 					(reference "R40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_Magnet_Large")
+		(at 30.48 400.05 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d4ef54e9-494e-4a23-a4d9-4c3fbff735b3")
+		(property "Reference" "#SYM2"
+			(at 30.48 394.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_Magnet_Large"
+			(at 30.48 406.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SB:trw_logo"
+			(at 30.48 405.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 31.242 405.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Magnetic field warning symbol, large"
+			(at 30.48 400.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/766bcda1-d983-41be-ba4d-e8b3b156d0a2"
+					(reference "#SYM2")
 					(unit 1)
 				)
 			)
@@ -125189,7 +125799,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 247.65 270)
+		(at 158.75 317.5 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -125197,7 +125807,7 @@
 		(dnp no)
 		(uuid "f30db09e-c844-4f1a-95f6-40c877ae099f")
 		(property "Reference" "#PWR060"
-			(at 130.81 247.65 0)
+			(at 152.4 317.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -125206,7 +125816,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 133.35 247.65 0)
+			(at 154.94 317.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -125214,7 +125824,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 247.65 0)
+			(at 158.75 317.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -125223,7 +125833,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 247.65 0)
+			(at 158.75 317.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -125232,7 +125842,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 247.65 0)
+			(at 158.75 317.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -125971,7 +126581,7 @@
 	)
 	(symbol
 		(lib_id "power:+5VA")
-		(at 194.31 321.31 0)
+		(at 167.64 309.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -125979,7 +126589,7 @@
 		(dnp no)
 		(uuid "fea8dd4f-ae05-4fcf-abed-65ab7b3bb60f")
 		(property "Reference" "#PWR04"
-			(at 194.31 325.12 0)
+			(at 167.64 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -125988,7 +126598,7 @@
 			)
 		)
 		(property "Value" "+5VA"
-			(at 194.31 317.754 0)
+			(at 167.64 306.324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -125996,7 +126606,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 194.31 321.31 0)
+			(at 167.64 309.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -126005,7 +126615,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 321.31 0)
+			(at 167.64 309.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -126014,7 +126624,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5VA\""
-			(at 194.31 321.31 0)
+			(at 167.64 309.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
