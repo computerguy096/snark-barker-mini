@@ -11,6 +11,9 @@ The only major difference is the lack of a volume potentiometer. Due to the card
 
 ![Rev 1A PCBs](images/top.jpg) ![Rev 1A PCBs](images/bottom.jpg)
 
+## Bill Of Materials
+An interactive HTML BOM is provided in `/kicad/bom` for easy parts installation. Most passives do not have silkscreen labels so this will be needed. Additionally, a CSV BOM is provided as well.
+
 ## The Firmware
 This card uses an Atmel 89LP51 as a modern day replacement for the original 80C51 microcontroller Creative used to implement the DSP chip. There is a programming header provided for the DSP chip, which can be flashed with [this HEX file](firmware/sb.hex) using the tool of your choice. 
 
