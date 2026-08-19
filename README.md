@@ -12,7 +12,9 @@ The only major difference is the lack of a volume potentiometer. Due to the card
 ![Rev 1A PCBs](images/top.jpg) ![Rev 1A PCBs](images/bottom.jpg)
 
 ## The Firmware
-This card uses an Atmel 89LP51 as a modern day replacement for the original 80C51 microcontroller Creative used to implement the DSP chip. There is a programming header provided for the DSP chip, which can be flashed with [this HEX file](firmware/sb.hex) using the tool of your choice.
+This card uses an Atmel 89LP51 as a modern day replacement for the original 80C51 microcontroller Creative used to implement the DSP chip. There is a programming header provided for the DSP chip, which can be flashed with [this HEX file](firmware/sb.hex) using the tool of your choice. 
+
+The DSP PWR jumper needs to be installed for normal operation, and removed when programming the DSP (it connects the DSP to VCC).
 
 ## Testing and Diagnostics
 The card can be tested using schlae's [SBDIAG](utility/SBDIAG.EXE)
