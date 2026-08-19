@@ -65,7 +65,7 @@
 	)
 	(fp_line
 		(start -103.690004 0)
-		(end -103.690004 -78)
+		(end -103.690004 -78.5)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -104,8 +104,8 @@
 		(uuid "c6bb92a2-2f3d-4a17-8aa7-16de6c68a9e8")
 	)
 	(fp_line
-		(start 0 -78)
-		(end -103.690004 -78)
+		(start 0 -78.5)
+		(end -103.690004 -78.5)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -115,7 +115,7 @@
 	)
 	(fp_line
 		(start 0 -7.9)
-		(end 0 -78)
+		(end 0 -78.5)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -225,7 +225,7 @@
 			)
 		)
 	)
-	(fp_text user "69.4mm Height"
+	(fp_text user "78.5mm Height"
 		(at -107.700004 -9.24 90)
 		(unlocked yes)
 		(layer "F.Fab")
