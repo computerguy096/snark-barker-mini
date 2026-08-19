@@ -1390,7 +1390,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 1.27 -15.24 90)
+				(at -1.27 -15.24 90)
 				(length 2.54)
 				(hide yes)
 				(name "NC"
@@ -1400,7 +1400,26 @@
 						)
 					)
 				)
-				(number "19"
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 0 -15.24 90)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1428,7 +1447,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 1.27 -15.24 90)
+				(at 2.54 -15.24 90)
 				(length 2.54)
 				(hide yes)
 				(name "NC"
@@ -1438,26 +1457,7 @@
 						)
 					)
 				)
-				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 1.27 -15.24 90)
-				(length 2.54)
-				(hide yes)
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "9"
+				(number "19"
 					(effects
 						(font
 							(size 1.27 1.27)
